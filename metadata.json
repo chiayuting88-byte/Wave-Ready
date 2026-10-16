@@ -1,0 +1,10 @@
+{
+  "name": "WaveReady - Singapore Water Sports & Fishing Charter Intelligence",
+  "description": "Live weather, tides, wind, UV, and heat stress conditions for water sports lovers and fishing charter enthusiasts in Singapore with OneMap integration and verified rental partners.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
